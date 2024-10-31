@@ -1,0 +1,44 @@
+ {
+   "mascotas": [
+    {
+      "id": "366b",
+      "User_ID": "c7cc",
+      "especie": "PERRO",
+      "raza": "Labrador",
+      "color": "Negro",
+      "nombre": "Max",
+      "edad": "1",
+      "descripcion": "Peero gracioso"
+    },
+    {
+      "id": "4035",
+      "User_ID": "c7cc",
+      "especie": "GATO",
+      "raza": "Persa",
+      "color": "Negro",
+      "nombre": "Pool",
+      "edad": "5",
+      "descripcion": "Gatico"
+    },
+    {
+      "id": "729b",
+      "User_ID": "9045",
+      "nombre": "Cloey",
+      "especie": "PERRO",
+      "raza": "Labrador",
+      "color": "Negro",
+      "edad": "12",
+      "descripcion": "Perro Labrador negro , jugueton y imperactivo"
+    },
+    {
+      "id": "9094",
+      "User_ID": "4c7d",
+      "nombre": "Nimbo",
+      "especie": "GATO",
+      "raza": "Persa",
+      "color": "Blanco y Amarillo",
+      "edad": "12",
+      "descripcion": "Jugueton y arisco"
+    }
+  ]
+ }
