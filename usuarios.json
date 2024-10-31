@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": "9045",
+      "nombre_usuario": "Sebas",
+      "nombre_completo": "Juan Sebastian Toloza Torres",
+      "correo": "juansebas072204@gmail.com",
+      "telefono": "3118649301",
+      "contrasena": "2204"
+    },
+    {
+      "id": "c7cc",
+      "nombre_usuario": "Josesito",
+      "nombre_completo": "Juan Jose Toloza ",
+      "correo": "juanjo@gmail.com",
+      "telefono": "3209665580",
+      "contrasena": "2204"
+    },
+    {
+      "id": "4c7d",
+      "nombre_usuario": "Laurita",
+      "nombre_completo": "Laura Ortega",
+      "correo": "Laura@gmail.com",
+      "telefono": "3118649574",
+      "contrasena": "2204"
+    }
+  ]
+}
