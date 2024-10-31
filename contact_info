@@ -1,0 +1,20 @@
+{
+  "Contact_Info": [
+    {
+      "userId": "9045",
+      "address": "Calle 13b # 11-19",
+      "barrio": "Brisas del campo",
+      "ciudad": "Giron",
+      "email": "juansebas2@gmail.com",
+      "phone": "3118649301",
+      "id": "c6f1"
+    },
+    {
+      "userId": "4c7d",
+      "address": "Calle 14b # 11 - 19",
+      "barrio": "La Paz",
+      "ciudad": "Floridablanco",
+      "id": "19db"
+    }
+  ]
+}
